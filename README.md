@@ -12,8 +12,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/noushad-zaman" target="blank"><img align="center" src="./assets/Purple Neon Club Greeting Card.png" alt="noushad-zaman" width="200" /></a>
-<a href="https://twitter.com/noushad_ozi" target="blank"><img align="center" src="./assets/Purple Neon Club Greeting Card (2).png" alt="noushad-zaman" width="200" /></a>
+<a href="https://linkedin.com/in/noushad-zaman" target="blank"><img align="center" src="./assets/Purple Neon Club Greeting Card.png" alt="noushad-zaman" width="200" height="60px" /></a>
+<a href="https://twitter.com/noushad_ozi" target="blank"><img align="center" src="./assets/Purple Neon Club Greeting Card (2).png" alt="noushad-zaman" width="200" height="60px" /></a>
 </p>
 
 <hr>
