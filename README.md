@@ -1,4 +1,4 @@
-![Hard work is beautiful!](/assets/AWESOME.png "quote")<h3 align="center">A passionate Developer from Bangladesh.</h3>
+![Hard work is beautiful!](/assets/AWESOME%20(1).png "quote")<h3 align="center">A passionate Developer from Bangladesh.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noushadozi&label=Profile%20views&color=0e75b6&style=flat" alt="noushadozi" /> </p>
 
