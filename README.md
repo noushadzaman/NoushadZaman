@@ -2,15 +2,29 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noushadozi&label=Profile%20views&color=0e75b6&style=flat" alt="noushadozi" /> </p>
 
+- 🔭 I’m currently **enhancing my skill on MERN stack.**
+
+- 🌱 I’m currently learning **Redux, Mongoose.**
+
+- 👯 I’m looking to collaborate **with developers and explore opportunities for collaborative open source projects.**
+
+- 📫 You can contact me with mail **noushadzaman333@gmail.com**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/noushad-zaman" target="blank"><img align="center" src="./assets/Purple Neon Club Greeting Card.png" alt="noushad-zaman" width="200" /></a>
+<a href="https://twitter.com/noushad_ozi" target="blank"><img align="center" src="./assets/Purple Neon Club Greeting Card (2).png" alt="noushad-zaman" width="200" /></a>
+</p>
+
+<hr>
+<h3 align="center">Current states 📈:</h3>
+
 <p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Noushadozi&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></p>
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noushadozi&theme=midnight_purple" alt="noushadozi" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noushadozi&theme=midnight_purple" alt="noushadozi" /></p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/noushad-zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noushad-zaman" height="30" width="40" /></a>
-</p>
-
+<p align="center" href="https://git.io/streak-stats"><img src="https://api.githubtrends.io/user/svg/Noushadozi/langs?time_range=one_year&theme=synthwaves" alt="GitHub Streak" /></p>
+<hr>
 <h3 align="center">Front End:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -44,5 +58,3 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/9n6bgfY/Vercel-Dark.png" alt="firebase" width="40" height="40"/> </a>
 <a href="https://app.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/3BgqWxF/Netlify-Dark.png" alt="mongodb" width="40" height="40"/> </a>
 </p>
-
-<p align="center" href="https://git.io/streak-stats"><img src="https://api.githubtrends.io/user/svg/Noushadozi/langs?time_range=one_year&theme=dark" alt="GitHub Streak" /></p>
