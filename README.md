@@ -2,13 +2,25 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noushadozi&label=Profile%20views&color=0e75b6&style=flat" alt="noushadozi" /> </p>
 
-- 🔭 I’m currently **enhancing my skill on MERN stack.**
 
-- 🌱 I’m currently learning **Redux, Mongoose.**
 
-- 👯 I’m looking to collaborate **with developers and explore opportunities for collaborative open source projects.**
+#### 🚀 Current Focus
+- 🔧 Mastering the art of Full-stack development.
+- 👯 Looking to collaborate **with developers and explore opportunities for collaborative open source projects.**
 
-- 📫 You can contact me with mail **noushadzaman333@gmail.com**
+#### 💡 Future Goals
+- 🌐 Exploring the world of mobile app development to broaden my skill set.
+- 🚀 Transitioning into a full-fledged Software Engineer.
+- 🌍 Diving into DevOps engineering to streamline the development and deployment process.
+
+#### 👨‍💻 Skills
+- 💻 Proficient in the MERN stack (MongoDB, Express.js, React, Node.js).
+- 📈 Leveraging Next.js for building dynamic and efficient React applications.
+- 🌐 Eager to embrace new technologies and frameworks to stay ahead of the curve.
+
+#### ✉️ Contact
+
+- 📫 You can contact me with mail beside linked in and twitter given below **noushadzaman333@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
