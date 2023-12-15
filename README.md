@@ -48,7 +48,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/MNx9D6S/Java-Script.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/wrB69hH/React-Dark.png" alt="react" width="40" height="40"/> </a>
 <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/LdSJ0dL/Material-UI-Dark.png" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/qrTFxyY/Next-JS-Dark.png" alt="react" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Back End:</h3>
