@@ -30,11 +30,11 @@
 
 <hr>
 <h3 align="center">Current states 📈:</h3>
-<p align="center" href="https://git.io/streak-stats"><img src="https://api.githubtrends.io/user/svg/Noushadozi/langs?time_range=one_year&theme=synthwaves" alt="GitHub Streak" /></p>
+<p align="center" href="https://git.io/streak-stats"><img src="https://api.githubtrends.io/user/svg/Noushadzaman/langs?time_range=one_year&theme=synthwaves"  /></p>
 
-<p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Noushadozi&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></p>
+<p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=noushadzaman&theme=midnight-purple&hide_border=true" /></p>
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noushadozi&theme=midnight_purple" alt="noushadozi" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noushadozi&theme=midnight_purple" alt="noushadozi" /></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noushadzaman&theme=midnight_purple" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noushadzaman&theme=midnight_purple"  /></p>
 
 <hr>
 <h3 align="center">Front End:</h3>
