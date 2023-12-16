@@ -30,7 +30,7 @@
 
 <hr>
 <h3 align="center">Current states 📈:</h3>
-<p align="center" href="https://git.io/streak-stats"><img src="https://api.githubtrends.io/user/svg/noushadzaman/langs?time_range=one_year&theme=synthwaves"  /></p>
+<p align="center" href="https://git.io/streak-stats"><img src="https://api.githubtrends.io/user/svg/Noushadozi/langs?time_range=one_year&theme=synthwaves"  /></p>
 
 <p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=noushadzaman&theme=midnight-purple&hide_border=true" /></p>
 
