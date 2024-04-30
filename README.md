@@ -27,15 +27,6 @@
 <a href="https://linkedin.com/in/noushad-zaman" target="blank"><img align="center" src="./assets/Purple Neon Club Greeting Card.png" alt="noushad-zaman" width="200" height="60px" /></a>
 <a href="https://twitter.com/noushad_ozi" target="blank"><img align="center" src="./assets/Purple Neon Club Greeting Card (2).png" alt="noushad-zaman" width="200" height="60px" /></a>
 </p>
-
-<hr>
-<h3 align="center">Current states 📈:</h3>
-<p align="center" href="https://git.io/streak-stats"><img src="https://api.githubtrends.io/user/svg/Noushadozi/langs?time_range=one_year&theme=synthwaves" alt="GitHub Streak" /></p>
-
-<p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Noushadozi&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></p>
-
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noushadozi&theme=midnight_purple" alt="noushadozi" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noushadozi&theme=midnight_purple" alt="noushadozi" /></p>
-
 <hr>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -56,5 +47,5 @@
 </p>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noushadzaman&theme=transparent&card_width=1000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=noushadzaman&theme=transparent&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noushadzaman&theme=radical&card_width=1000&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=noushadzaman&theme=radical&hide_border=true&border_radius=3.7&hide_total_contributions=true)](https://git.io/streak-stats)
